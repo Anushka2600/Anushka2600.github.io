@@ -1,0 +1,95 @@
+body
+.intro {
+	margin-top: 10px;
+	padding-top: 10px;
+	height: 100px;
+	text-align: left;
+	padding-left: 15px;
+	font-size: 2rem;
+}
+.disable {
+   pointer-events: none;
+   cursor: default;
+}
+
+.navbar-header .navbar-brand {
+	color: blue;
+}
+
+div.hidden {
+	display: none;
+}
+
+.sizebtn {
+	width: 280;
+	height: 90px;
+	font-size: 2.2rem;
+	text-align: center;
+}
+.sizebtn span {
+	padding: 5px;
+}
+
+.aboutmebtn {
+	background-color: #FFE4E1;
+}
+
+.educationbtn {
+	background-color: 	#FFB6C1;
+}
+
+.activitiesbtn {
+	background-color:  #FFDAB9;
+}	
+.contactbtn {
+	background-color: #FA8072;
+}	
+
+#Contact 
+{background-color:LightGray; height:180px; text-align:center; font-size:18px; margin-top:15px;}
+
+#Contact i 
+{padding-right:5px;}
+
+#aboutme {
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #FFE4E1;
+}
+
+#education {
+	background-color: 	#FFB6C1;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+#hobbies {
+	background-color: 	#FFDAB9;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+#contactme {
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	padding: 5px;
+	text-align: left;
+	margin-top: 10px;
+	background-color:  #FA8072;
+}
+
+.forminput {
+	color: black;
+	padding: 5px;
+	text-align: center;
+}
